@@ -50,7 +50,7 @@ class Handler(BaseHTTPRequestHandler):
 
 
 def main() -> None:
-    host, port = "0.0.0.0", 443
+    host, port = "0.0.0.0", 8080
     server = HTTPServer((host, port), Handler)
     server.serve_forever()
 
