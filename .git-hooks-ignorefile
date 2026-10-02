@@ -1,0 +1,4 @@
+.git-hooks-ignorefile=Git::Hooks::IgnoreFile
+Dockerfile=Git::Hooks::IgnoreFile
+README.md=Git::Hooks::IgnoreFile
+server.py=Git::Hooks::IgnoreFile
